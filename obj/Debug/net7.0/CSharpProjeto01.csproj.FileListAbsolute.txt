@@ -1,0 +1,15 @@
+C:\csharp\CSharpProjeto01\bin\Debug\net7.0\CSharpProjeto01.exe
+C:\csharp\CSharpProjeto01\bin\Debug\net7.0\CSharpProjeto01.deps.json
+C:\csharp\CSharpProjeto01\bin\Debug\net7.0\CSharpProjeto01.runtimeconfig.json
+C:\csharp\CSharpProjeto01\bin\Debug\net7.0\CSharpProjeto01.dll
+C:\csharp\CSharpProjeto01\bin\Debug\net7.0\CSharpProjeto01.pdb
+C:\csharp\CSharpProjeto01\obj\Debug\net7.0\CSharpProjeto01.csproj.AssemblyReference.cache
+C:\csharp\CSharpProjeto01\obj\Debug\net7.0\CSharpProjeto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\CSharpProjeto01\obj\Debug\net7.0\CSharpProjeto01.AssemblyInfoInputs.cache
+C:\csharp\CSharpProjeto01\obj\Debug\net7.0\CSharpProjeto01.AssemblyInfo.cs
+C:\csharp\CSharpProjeto01\obj\Debug\net7.0\CSharpProjeto01.csproj.CoreCompileInputs.cache
+C:\csharp\CSharpProjeto01\obj\Debug\net7.0\CSharpProjeto01.dll
+C:\csharp\CSharpProjeto01\obj\Debug\net7.0\refint\CSharpProjeto01.dll
+C:\csharp\CSharpProjeto01\obj\Debug\net7.0\CSharpProjeto01.pdb
+C:\csharp\CSharpProjeto01\obj\Debug\net7.0\CSharpProjeto01.genruntimeconfig.cache
+C:\csharp\CSharpProjeto01\obj\Debug\net7.0\ref\CSharpProjeto01.dll
